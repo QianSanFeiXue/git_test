@@ -8,10 +8,6 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("123123132");
         System.out.println("dasadasdas");
-        System.out.println("6666666666");
-        System.out.println("77777777777777777");
-        System.out.println("8888888888");
-        System.out.println("+999999999999999");
-        System.out.println("+9945555555599999");
+
     }
 }
